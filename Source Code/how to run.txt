@@ -1,0 +1,7 @@
+step1:open the cmd
+
+step2:cyper\Scripts\activate
+
+step3:cd C:\Users\monis\OneDrive\Desktop\web vulnerability\Source Code
+
+step4:python app.py
